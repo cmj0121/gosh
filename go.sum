@@ -1,0 +1,10 @@
+github.com/cmj0121/argparse v0.5.2 h1:/kayF8D8760PgkDSRChFhuLj8eJKCytKCU/kJPhCxRo=
+github.com/cmj0121/argparse v0.5.2/go.mod h1:MJZURHuGfUudCyY37n/hPSs2gD+pHd07foZ3/Xallok=
+github.com/cmj0121/argparse v0.5.3 h1:EaPw8Y/vHq/YPKnJfx9IUAR0cLyagBkcTGX+9aJQUBk=
+github.com/cmj0121/argparse v0.5.3/go.mod h1:MJZURHuGfUudCyY37n/hPSs2gD+pHd07foZ3/Xallok=
+github.com/cmj0121/argparse v0.6.6 h1:K3L0+9QTsUrBvJqkXYCw77JnWalq2g0+0zfltUvWrRQ=
+github.com/cmj0121/argparse v0.6.6/go.mod h1:MJZURHuGfUudCyY37n/hPSs2gD+pHd07foZ3/Xallok=
+github.com/cmj0121/logger v1.2.1 h1:uBugba2f7GocZ0nXSZJPp2iNIYWdVdsj2f2Pq4uGyR4=
+github.com/cmj0121/logger v1.2.1/go.mod h1:N9vkhQgq34KIbnPLc9NMcCoA7AL95CBEVG0Mi5hpFsA=
+github.com/cmj0121/logger v1.2.2 h1:ROtl6vRaYTRyugR0MCmSVQQ8U4XMfTWcaU15jnwOeEA=
+github.com/cmj0121/logger v1.2.2/go.mod h1:qaqPLFd6UBNSb4r/KJL12cn/lqHb1inqeivLzEhlI1I=
